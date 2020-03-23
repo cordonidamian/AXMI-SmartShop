@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+body{
+    background-image: url(backg/backg1blur.jpg);
+    font-family: 'Raleway', sans-serif;
+    font-size: small;
+    
+}
+
+
+.navbar{
+    background-color: rgb(223, 41, 41);
+    
+}
+
+.card-img-top{
+    width: 50%;
+}
+
+
+
+#footerlogo{
+    margin-right: 30px;
+    margin-bottom: 0px;
+}
+
+#dropdownMenuButton{
+    background-color: rgb(59, 59, 59);
+    border: rgb(255, 255, 255) 1px solid;
+    margin-top: 2px;
+
+}
+
+#logoaxmivertical{
+    width: 30%;
+    margin-top: 60px;
+    padding-bottom: 200px;
+}
+
+#separador{
+    height: 10px;
+    width: 30%;
+    background-color: rgb(59, 59, 59);
+}
+
+#fondodivlogo{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(59, 59, 59);  
+    margin-top: 30px
+}
+
+#imgfondo{
+    background-image: url(backg/backg1blur.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    border-radius: 3px;
+    border: rgb(59, 59, 59) 1px solid;
+    
+}
+
+#logo{
+    margin-top: 20px;
+}
+
+#fondonegro{
+    background-color: rgb(59, 59, 59); 
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#logoaxmifooter{
+    margin-top: 9px;
+}
+
+.dropdown-item:hover{
+    background-color:rgb(59, 59, 59);
+    color: white;
+    size: 10px;
+    margin-right: auto;
+
+}
+
+/*SOCIAL BUTTONS*/
+
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  
+  
+  .fa-instagram {
+    background: #e4405f;
+    color: white;
+  }
+
+  .fa-whatsapp {
+    background: #25d366;
+    color: white;
+  }
+
+  .fa-map-marker {
+    background: #dd4b39;
+    color: white;
+  }
+
+  
+
+
+  #cardcontact{
+      background-color:  rgb(223, 41, 41);
+  }
+
+  #bckcontact{
+      background-color: rgb(59, 59, 59);
+      padding-top: 30px;
+      padding-bottom: 30px;
+  }
+
+  #besmart{
+      margin-bottom: 0px;
+  }
+
+  #logoaxmicontact{
+      width: 50px;
+      margin: auto;
+      margin-top: 1px
+  }
+
+  #line{
+      border: solid 1px;
+      margin-top: 2px;
+      margin-bottom: 2px;
+      padding: 0px;
+  }
+
+  .tarjetas img{
+      margin-top: 52px;
+  }
